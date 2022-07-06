@@ -99,7 +99,7 @@ section p {
 
 .amount {
     padding: 35px 33px;
-    background-color: darkgray;
+    background-color: rgb(240, 233, 233);
     width: 150px;
 }
 
@@ -151,4 +151,47 @@ section p {
 .donation-btn {
     text-align: center;
     margin-top: 50px;
+}
+
+.food {
+    text-align: left;
+    background-color: cadetblue;
+    padding: 5% 2%;
+    height: 300px;
+    width: 500px;
+    margin: 1%;
+    box-sizing: border-box;
+
+}
+
+.shelter {
+    text-align: left;
+    background-color: rgb(148, 105, 146);
+    padding: 5% 2%;
+    height: 300px;
+    width: 500px;
+    margin: 1%;
+    box-sizing: border-box;
+}
+
+.education {
+    text-align: left;
+    background-color: #efe791;
+    padding: 5% 2%;
+    height: 300px;
+    width: 500px;
+    margin: 1%;
+    box-sizing: border-box;
+}
+
+.donation-plan {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+
+
+}
+
+.donation-plan p {
+    text-align: left;
 }
