@@ -195,3 +195,35 @@ section p {
 .donation-plan p {
     text-align: left;
 }
+
+.updates {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    background-color: #fff4d6;
+    padding: 70px 20px;
+
+
+}
+
+.subscribe-form {
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+
+.email {
+    background-color: whitesmoke;
+    padding: 15px;
+    color: black;
+    width: 400px;
+}
+
+.submit {
+    background-color: rgb(228, 112, 112);
+    padding: 15px;
+    color: black;
+    margin-left: -30px;
+}
